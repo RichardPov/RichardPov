@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RichardPov
+- 👋 Hi, I’m Richard Povysil
 - 👀 I’m Front-end Developer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on interesting projects
